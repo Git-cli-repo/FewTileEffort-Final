@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lava
+  - Gorilla
+  - SwitchB
+  - SwitchR
+  - Dark
+  - Light
+  - Grip
+  - PlayerObj
+  - LavaOn
+  - OSwitchR
+  - OSwitchB
+  - Bullet
+  - Grip Tile
+  - Bounce Tile
+  - Button
+  - ToEnable1
+  - ToEnable2
+  - ToDisable2
+  - ToDisable3
+  - DL Switch
+  - Secret
+  - BigLava
+  - deathText
+  - Speedrun Timer
+  - saveFileText
+  - percentText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProccessing
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Swingables
+  - PlacementLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 3329501421
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

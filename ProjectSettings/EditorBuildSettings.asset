@@ -1,0 +1,1905 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/M e n u/Main Menu.unity
+    guid: ad155ba612959804390849bfb7add61c
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 1.unity
+    guid: f8edff2efd965c74785706c14dd1a87a
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 2.unity
+    guid: 5966be8b02e6c73458131381db7e0941
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 3.unity
+    guid: ddbbf0a52d8ff1b43b7b10823dffee30
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 4.unity
+    guid: c77ae57c98b837a4ebe6959556ecddd9
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 5.unity
+    guid: 6b4a571deb7b9f04b979cc944e95a6a3
+  - enabled: 0
+    path: Assets/Levels/W1/Tutorial/w1 intro `.unity
+    guid: c89f2c4aa609e1c448710d37ff2a3c8b
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 6.unity
+    guid: fb5ea157f26c7b64ea26634a00c50b40
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 7.unity
+    guid: 457167b927cc7cd44b03287105633457
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 8.unity
+    guid: 5fecdb89633f1144c86cbbd03e16be8a
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Tutorial/w1 intro 9.unity
+    guid: a13ed31004f7c864cab34bd986aa80a7
+  - enabled: 0
+    path: Assets/Levels/Main Game/W1/Other/LevelSelect W1.unity
+    guid: 709b4918c70c92c4189b2177a91e4ae7
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L2.unity
+    guid: 2bd3b7da92dfd26459eccc75a8968ae9
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L3.unity
+    guid: 8c7c4a127abe31b4ebf9a91f5c13ce70
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L4.unity
+    guid: 882c08f9181558843bc0b9bab9dcb5f8
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L5.unity
+    guid: 5fa1e3a37442dd043a5502d0e3964e38
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L6.unity
+    guid: 7b747ec0417da90438d34af80a37a74e
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L7.unity
+    guid: 92611ab9ea50a8744ada3d133060dbc3
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L8.unity
+    guid: 8eda15b2e128f56408074311e9e5182d
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L9.unity
+    guid: 0af5e3857fbcd6a4fb92af1efbaee910
+  - enabled: 1
+    path: Assets/Levels/Main Game/W1/Levels/W1L10.unity
+    guid: 7147d07146aa3a548a081537a10cc7e2
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Tutorials/w2 intro 1.unity
+    guid: 53c3047cfaa8b764b9afc36b33898ea9
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Tutorials/w2 intro 2.unity
+    guid: abb19ee68857d594a9b0d8d50d4aebbd
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L1.unity
+    guid: 34b23282c1f92744e933dc719d32defe
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L2.unity
+    guid: cf31ac39711942a4d8ce7e34603fce6e
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L3.unity
+    guid: 4372572849fd4c34f9050ab1c3951936
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L4.unity
+    guid: 8b0bc24c5b16b6340b59d49078d84dae
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L5.unity
+    guid: 01a69410cd9117e44806413fc334f03d
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L6.unity
+    guid: be59b76271325d040bd9399527ef9005
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L7.unity
+    guid: 5a867036594684d43990259f7ee9c1f4
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L8.unity
+    guid: 71cf3217e7d73574aafee1ea97549c04
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L9.unity
+    guid: 48645b16910344842aa04ecde3f8dfd7
+  - enabled: 1
+    path: Assets/Levels/Main Game/W2/Levels/W2L10.unity
+    guid: e7e5b5ed124eff8479762bebd2d8fa36
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Tutorials/w3 intro 1.unity
+    guid: 0004e00b16c59bd4086f4eadbb528273
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Tutorials/w3 intro 2.unity
+    guid: ca60cfa66f774df4aa69aa1f3f596063
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Tutorials/w3 intro 3.unity
+    guid: 9f1dda7c5e0b3c247ac9167169e7e32a
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Tutorials/w3 intro 4.unity
+    guid: 78a5e763319fc284e8f6f36102a958f7
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Tutorials/w3 intro 5.unity
+    guid: b0be89c7569061749b66d8a88daa64cb
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L1.unity
+    guid: 72dd2855cebd34e40bedbf3551933fb9
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L2.unity
+    guid: 451fe9c4e4f29224bb5d2e856e085add
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L3.unity
+    guid: ca52cc0e7631c264b826b52530a4ff21
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L4.unity
+    guid: 984e29bb0fd3e9b41ad59a6ed62e845e
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L5.unity
+    guid: 4f70b61520475bc489d67594aaf2663a
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L6.unity
+    guid: decb198c047f2bd4c85392ec423725c4
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L7.unity
+    guid: 445fc27f37534a842ab4562940c07c25
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L8.unity
+    guid: d7eba19620adeca4c8d5cc0a8e96b3e1
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L9.unity
+    guid: 1aeb28c849052074fb721cbd87980425
+  - enabled: 1
+    path: Assets/Levels/Main Game/W3/Levels/W3L10.unity
+    guid: ba1cd2951c3ec0342b19769c80803eda
+  - enabled: 1
+    path: Assets/Levels/Main Game/EndOfGame.unity
+    guid: 0bada4fb5b1726941ba0a6fd8c474154
+  - enabled: 1
+    path: Assets/Levels/Epilogue/Epilogue.unity
+    guid: 7bcec0e2d35fad144a1ada8490f5b5e4
+  - enabled: 1
+    path: Assets/Levels/Epilogue/Epilogue-ch2.unity
+    guid: 361a9032811ee4d46a326f5629d6c2f6
+  - enabled: 1
+    path: Assets/Levels/Epilogue/Epilogue-ch3.unity
+    guid: 7b02b995438ac8949bda094b1f58622a
+  - enabled: 1
+    path: Assets/Levels/Epilogue/EndOfEpilogue.unity
+    guid: aa79cf581baadab46956611eee436170
+  - enabled: 1
+    path: Assets/Levels/M e n u/Badges.unity
+    guid: b58519656dc4a8a458baff288590b07c
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L1.unity
+    guid: a443aaad5ae18eb40bb095d0a879ed9e
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L2.unity
+    guid: a2cfdbc0bbc096049a7d99ca32424146
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L3.unity
+    guid: b246979c9511bb3449c2c10f48243cd6
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L4.unity
+    guid: ac4ffdf0c14080c4880137c3fff2292e
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L5.unity
+    guid: 565a0456a30f802478cd65c22f5a3406
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L6.unity
+    guid: 5f9803f4016d09e489ca04fff9651fd1
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L7.unity
+    guid: 65f9560b927ddd54dbe6b0ea1cbc1273
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L8.unity
+    guid: efbb471458edca44782851a9b596a9fe
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L9.unity
+    guid: eff64645fc4ac17419bcd438c6ae62d8
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H1/Levels/H1L10.unity
+    guid: 3eaf33027ac0a124d8a2811e0a66f5f4
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L1.unity
+    guid: fba40e95231dfc748a11e2c48eb0e723
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L2.unity
+    guid: 9ce6b9cbec0390d43a1ff90660c90bef
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L3.unity
+    guid: c22e70184ebb1d5409018d1960ded8be
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L4.unity
+    guid: ebaff0dab2313374caf5a01d085cfef3
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L5.unity
+    guid: e8f8e94f91da25e40a5fc709edcc4ac6
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L6.unity
+    guid: af940bb893fd5a54b855603587cacdbc
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L7.unity
+    guid: d32f16ca98c03234e8691740c4870ab1
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L8.unity
+    guid: 25326787c0698d3449c94e4f9c2e980b
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L9.unity
+    guid: 7a3afe522370a774ab1ee5432da34eef
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H2/Levels/H2L10.unity
+    guid: e12e4e51326ded1489a298f1495eb4e4
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L1.unity
+    guid: 70fef95647ea0bb4eadf95cb32d37d02
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L2.unity
+    guid: c8345090028ce494abb111a983767fb1
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L3.unity
+    guid: f8bc61185c769494bac25fcc692839a2
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L4.unity
+    guid: d4f9d4dbc1db89a4f86791b185e55677
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L5.unity
+    guid: d4b8e01ab452f7d49ab51fe885e36f92
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L6.unity
+    guid: a784d0cdebef7524985d7cc24530a961
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L7.unity
+    guid: 53668e9d00e64b54c87c95cba6cdcf2c
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L8.unity
+    guid: a95ec709f04be9a42afb7f5c5d02eef4
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L9.unity
+    guid: 26f2f56ff71a57e42860636cd0a9e7bc
+  - enabled: 1
+    path: Assets/Levels/Hardcore/H3/Levels/H3L10.unity
+    guid: 810d95482a36a8847a24568f877942d3
+  - enabled: 1
+    path: Assets/Levels/Hardcore/EndOfHardcore.unity
+    guid: 1de5748421a3fe1469c9d7eef8060976
+  - enabled: 1
+    path: Assets/Levels/The Trials/T1.unity
+    guid: d84e528b88845ca438c60ba878c48210
+  - enabled: 1
+    path: Assets/Levels/The Trials/EndOfTrials.unity
+    guid: a3543005bc2a7954999d5d93b4bdc56b
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-1.unity
+    guid: e18e054fec16ed7429c79b341bb055bb
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-2.unity
+    guid: 2edb2d02c3f51aa44b5ad76a66700aa5
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-3.unity
+    guid: bf696eb15a33f2248be298559f9cadc2
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-4.unity
+    guid: cbbd92aca900d014ab4d8cdaf08cb660
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-5.unity
+    guid: 0dd87a0473007a743bc1e47c14cc6763
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-6.unity
+    guid: 925ebe24bde7ff340baace40548ae7ae
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-7.unity
+    guid: 5d350c2b260129341a1a0091f7042790
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-8.unity
+    guid: 50b78997f0ee73246a934eae6404a13b
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-9.unity
+    guid: 708b8e6d880b62f4a8774c948b3940d3
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/CZ-10.unity
+    guid: 830360e61fb320943866434261f2e0c1
+  - enabled: 1
+    path: Assets/Levels/Challenge Zone/EndOfChallengeZone.unity
+    guid: 621420089d2cb6044a310403f861a755
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/Gauntlets intro 1.unity
+    guid: 983de11604a34c84098461c234321336
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/Gauntlets intro 2.unity
+    guid: 38d8d2feb49f2d14b8128fcb35b6a6d2
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/G1.unity
+    guid: 75d31ceba4ed82e489c3bed844fbb4bc
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/G2.unity
+    guid: 7f3fff90340690749b26e851ae2931af
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/G3.unity
+    guid: 0ad7438da6852f04b9b5d7bef526300b
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/G4.unity
+    guid: 421f799eec2b61341ad8c79cd51c57be
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/G5.unity
+    guid: ff86a4d2bf812b04ab4e7e21535ac6b5
+  - enabled: 1
+    path: Assets/Levels/The Gauntlets/EndOfGauntlets.unity
+    guid: 8ac55a549b6fade42b925b762b5bfefd
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L1.unity
+    guid: 29c38aec89db20e47b02607383153ca4
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L2.unity
+    guid: ff0917b535126df4d8b1018a955efd0d
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L3.unity
+    guid: a13bd9bd503e5b040ab35aa7766b2c76
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L4.unity
+    guid: df76ca2f4e933c34db42f5a158228792
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L5.unity
+    guid: 434c71926e95fcb4fb575f3ba207db8c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L6.unity
+    guid: 17d518ca4c690144f8ab0983c86642ad
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L7.unity
+    guid: 7554175657526054589de82f79926add
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L8.unity
+    guid: 0a1c4c2e1eb6e0e44bc1ee6518e7cdc9
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L9.unity
+    guid: b321457fcdea60143b0ca22f0e53155b
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W1/Levels/C-W1L10.unity
+    guid: 358daa3db7272ae47b099a5e2cb3ad7b
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L1.unity
+    guid: 719c29a0926af924b93eae9b8d854d37
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L2.unity
+    guid: c1dd183ce35384d4aa11bee4e30f1e16
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L3.unity
+    guid: 97390fd43b8a5544c814d0e9e176c13b
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L4.unity
+    guid: 1e2e2c5a60d1af74e84624a1b3e2cc56
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L5.unity
+    guid: faf6835ccfbf0a14faff31baa0167601
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L6.unity
+    guid: 2f74d5ce75a95d244b64f12219ae25a3
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L7.unity
+    guid: 1e2f9fe3f3d1f264cbfc21e1483593a2
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L8.unity
+    guid: 4192414f6bf726b47a4e113ce82bf670
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L9.unity
+    guid: f9e87edb2371f6946a1a7f4eb4651bc6
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W2/Levels/C-W2L10.unity
+    guid: 1855234c072418442ac3d4a7a7530a8e
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L1.unity
+    guid: 3cb37327fb54b4c4fb31e62c211fc7ef
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L2.unity
+    guid: febb0cc28334e0545ac1570ff2782851
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L3.unity
+    guid: 2b8ad0028f72c424e870810bbf9ebc83
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L4.unity
+    guid: 48c1aabae0d70ed40a1a0c6da33abfce
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L5.unity
+    guid: 355348d8e54b0fd438a491e9c94553bc
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L6.unity
+    guid: 536d93f8105b3174fa494f2a8e3edfeb
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L7.unity
+    guid: 665bf08c602b0b5429dcd60308172e6f
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L8.unity
+    guid: ee481e35f027c0b42abcf74e33a33c1a
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L9.unity
+    guid: cd11000dc9d2ee143ae6c6df75f6cb9f
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/W3/Levels/C-W3L10.unity
+    guid: 9f7cc9e601e69b44493cbb6afaa46c53
+  - enabled: 1
+    path: Assets/Levels/Completionist/Main Game/EndOfCMainGame.unity
+    guid: cfae142767bd0524f9c493ab6ca71b7c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Epilogue/C-Epilogue.unity
+    guid: 64afdca95d93e0a4c8cbdd97b84a3404
+  - enabled: 1
+    path: Assets/Levels/Completionist/Epilogue/EndOfCEpilogue.unity
+    guid: 860f2e5a31051964599e6f43522c8454
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L1.unity
+    guid: 91f30f0eeced57b4c8e074f53b2a107c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L2.unity
+    guid: feafffcadb37558408fce18dc0795193
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L3.unity
+    guid: fbf01b4648326e04582a166e6e88bc8f
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L4.unity
+    guid: c53e2b0bf30c208499aa57c42bce0682
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L5.unity
+    guid: 1a376f2121447c444961f6f2aba8c756
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L6.unity
+    guid: ed842bd74b4d2e44c8842ac79fc8bbac
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L7.unity
+    guid: 16719b406296f584e97113a3c361ce5b
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L8.unity
+    guid: 7af01becea7822d4884eee73a9c3edd4
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L9.unity
+    guid: dc87f0e1e6118df4f975b1bde2d7a052
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H1/Levels/C-H1L10.unity
+    guid: 721799520592b634b882fec4ca3a44a5
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L1.unity
+    guid: 1b5a7a1330df1494faa9c5fdd95d6663
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L2.unity
+    guid: 1cab278d01e7ece49965790854ee8b22
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L3.unity
+    guid: 8c33097dd7864d747a2f2c85afa339fb
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L4.unity
+    guid: 4d8bb5b7a92d1704a9bd3ef41b937d37
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L5.unity
+    guid: 32fdfd9e09bbb4d47a0ce2182532c959
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L6.unity
+    guid: e68f4a8908262d04d9d6cd6ebdfc56fc
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L7.unity
+    guid: 168472f6ecfeb7246961d064ae6de762
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L8.unity
+    guid: eae8c0a6ab49c824fa2f15a95f61b90a
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L9.unity
+    guid: 48d43c45da46a26458f5fca7acb91821
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H2/Levels/C-H2L10.unity
+    guid: 634db7c6d8ba0af4ba01427b0917fefc
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L1.unity
+    guid: b3afc7ee315a6cb4996da5684e81e2cb
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L2.unity
+    guid: a2e419cdf9444d0499f2bab678c92fea
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L3.unity
+    guid: 76d02fc626bdeae48a7d84caae54d85c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L4.unity
+    guid: 762adb58a81509144bae99a18be39b4c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L5.unity
+    guid: 02dc35e782658a6449d266fda4794d6d
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L6.unity
+    guid: f7435120e01a5ec4ea67054e517d6a46
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L7.unity
+    guid: 85c7dcab8eaddc24f8e8084bea69d373
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L8.unity
+    guid: 050dc08243f361544b4418f98f945c1d
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L9.unity
+    guid: 1d8b8f650e7638f419e62fa9c4094305
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/H3/Levels/C-H3L10.unity
+    guid: 31574ebf8b196a946a6f3db129979863
+  - enabled: 1
+    path: Assets/Levels/Completionist/Hardcore/EndOfCHardcore.unity
+    guid: 8403a3f9a6b2e0044b9721f6876d6d64
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-1.unity
+    guid: 70995c580ed493e4ab13640243bec36d
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-2.unity
+    guid: 0c036bf1ff27d5044969142d3fa08a78
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-3.unity
+    guid: b8e2c28c0504d8d419b107cc1027115a
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-4.unity
+    guid: 4337c192555be3944bb0dbabad2c1c9c
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-5.unity
+    guid: ca4105c761540b4479d55040b88049e0
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-6.unity
+    guid: 6d870af1a795ac84a8524a66f2c6a27e
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-7.unity
+    guid: 41b0d883de8e83145bd10dca4760dcdd
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-8.unity
+    guid: bebcf0cf013b4c54c88347a5437eae90
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-9.unity
+    guid: 9e550878fd2c91945b3e9ce0c858385d
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/C-CZ-10.unity
+    guid: 3906772676fff14498fabb80510541a8
+  - enabled: 1
+    path: Assets/Levels/Completionist/Challenge Zone/EndOfCChallengeZone.unity
+    guid: c2c2fc6cb2c706745b60f1b419ded6c4
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/C-G1.unity
+    guid: b924df609fbf654429d1fe7cb0b442a1
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/C-G2.unity
+    guid: c41b0bacd0ee517458af7c303e1bd438
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/C-G3.unity
+    guid: 1522c5eef44190142949ae28900baff6
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/C-G4.unity
+    guid: 65116e2cc80854648b90b8ec8486562b
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/C-G5.unity
+    guid: 89b0576b544e1dc42a48d26d7185cd77
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Gauntlets/EndOfCGauntlets.unity
+    guid: 22ed0993ea61d9e4b9e144af74ff85cc
+  - enabled: 1
+    path: Assets/Levels/M e n u/CompletionistMode.unity
+    guid: e56d7b4eb2ea959428cdf59c88fd1f9c
+  - enabled: 1
+    path: Assets/Levels/M e n u/SkinScene.unity
+    guid: d885a0dc6a693a4419403036d5e8de5b
+  - enabled: 1
+    path: Assets/Levels/Level Editor/Tutorial/LevelEditorShowcase.unity
+    guid: 7409170d9c3ce2748b9522718d7819e5
+  - enabled: 1
+    path: Assets/Levels/Level Editor/LevelEditor.unity
+    guid: 09ba07ff891269942a2ea1947522a230
+  - enabled: 1
+    path: Assets/Levels/M e n u/AchievementsDisplay.unity
+    guid: e75ab9ffaca5cdd4ea7a25959e609c1d
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-1.unity
+    guid: 17661782bd3493340af92646d7e6c6f5
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-2.unity
+    guid: 600983e6fe9315d40a14c556a3bbce8b
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-3.unity
+    guid: 3c0c5d8fdd01bd749bf710355e4a498c
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-4.unity
+    guid: ab3cae56b6e68c140b199677655af3ed
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-5.unity
+    guid: 63d66891f627f1f439b8ebcc40acf05a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-6.unity
+    guid: 845caa9e77a654a418f85a41bdfb7982
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-7.unity
+    guid: 768e72168c8db974e8bff4fa1679c916
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-8.unity
+    guid: 2d1d11d2beced4a4e9c0b7baee3d43c7
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-9.unity
+    guid: 89eeea86bf195134797863c2576ce5bf
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-10.unity
+    guid: ecbd670d36966fd45a136e0e96216325
+  - enabled: 1
+    path: Assets/Levels/The Tower/To1/To1-End.unity
+    guid: abf7a71350ce75c4ca2940cc0e75fda0
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-1.unity
+    guid: 357e38f1653897c4993c98737c0ab9a7
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-2.unity
+    guid: 806d8425166eeee4881d58d45418b421
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-3.unity
+    guid: d3d547ece35356c42acf8df1d2309af8
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-4.unity
+    guid: 706603afb8fc2774e802470c44434dd4
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-5.unity
+    guid: 514f0e90d198f2345b98cd06a6ebdaf0
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-6.unity
+    guid: b182ffb9932f2e6489eb4127ac86e66e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-7.unity
+    guid: 0c44245b428868c41ba9f38f9d2f8d73
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-8.unity
+    guid: 8f28bc28f49e9fd429ffc68cb8d3de4f
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-9.unity
+    guid: 50e25ebcfc6e6d642adbc076357eb2b3
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-10.unity
+    guid: 4bec0f36aed625942855db1cf75e5baf
+  - enabled: 1
+    path: Assets/Levels/The Tower/To2/To2-End.unity
+    guid: f19794fa34e487e449776a88bdfff9f2
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-1.unity
+    guid: be1f5877f8224fa44ae6b8980939ea02
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-2.unity
+    guid: 512631015b131904aa18ef8df4bbbe2d
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-3.unity
+    guid: 36d115b8b91c3794c82535d7d3b5fe12
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-4.unity
+    guid: cb19fbee1f4d43a4c8ffa864fe89de22
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-5.unity
+    guid: b29e2e52a83c0a2449d502a310571096
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-6.unity
+    guid: 6be1ce3f6d29fa14186f5d89e90a6559
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-7.unity
+    guid: 17eb0ab8dc274364196b4512c96d75fd
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-8.unity
+    guid: bdd5c3a065a47094ca95828303df4841
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-9.unity
+    guid: 6f7a0267e0035f84aae4ab61c208cb0f
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-10.unity
+    guid: e840c391bf5c5054f99aa130ea8f5984
+  - enabled: 1
+    path: Assets/Levels/The Tower/To3/To3-End.unity
+    guid: 53db1196afa850149bf7f81454afc27c
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-1.unity
+    guid: 9a1335e7b890bc048b4af5e585d00fed
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-2.unity
+    guid: 7ccada90f84bcc546bdb455262463ec3
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-3.unity
+    guid: ce9c1a9f7b0d44d4ba56fe4c30c5d62a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-4.unity
+    guid: 7ec72fc43e1989349a2e5b2a2df82e98
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-5.unity
+    guid: aa52e380570a16e48a6834f546775446
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-6.unity
+    guid: 497d345d47d9f5f43bea44b82690f17e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-7.unity
+    guid: 2b6cd41b73cf56949b2a18c529ad71bc
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-8.unity
+    guid: 19b6ef821117b844ca609235a93a6a43
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-9.unity
+    guid: b0e306b899474254aa5fe57561f8070e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-10.unity
+    guid: b462bdd7ff10ae94a9edfae23a009933
+  - enabled: 1
+    path: Assets/Levels/The Tower/To4/To4-End.unity
+    guid: ad6073d222f055b46ada46f241b938b0
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-1.unity
+    guid: 480ad0853b927ab448a3ffd47f667f55
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-2.unity
+    guid: f398ea6dcac96ad489415d56134021ce
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-3.unity
+    guid: faa28611cb5c23241b3da4ff8e1fd14a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-4.unity
+    guid: 39a2fac684ef86a4f91508c9f0faf6c6
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-5.unity
+    guid: c20e422a1a3f1fa4daee22c4d1c01cc1
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-6.unity
+    guid: 826d0f37275a75b42bd66aae644971c6
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-7.unity
+    guid: 804d7f27b09fb3e4892438294a3e20c6
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-8.unity
+    guid: 9198da3fc2828f94b856c27052fd1590
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-9.unity
+    guid: 56c1b17b149f44f499dc9b179fb9ce29
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-10.unity
+    guid: 34d9d27dd3b4baa47aa66ff809cf8e06
+  - enabled: 1
+    path: Assets/Levels/The Tower/To5/To5-End.unity
+    guid: fe6324bb6940a464aa302af864f4b665
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-1.unity
+    guid: 95d59822174dbd64d8f1d5ac2e251809
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-2.unity
+    guid: e48c32a4cff111c449ef985de6c8d41a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-3.unity
+    guid: adad37b240d60a744aa30a2497e56d43
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-4.unity
+    guid: 558e98334db7d4840b905022e6c3eaee
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-5.unity
+    guid: 72625b5a1142ab240899160fe581e313
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-6.unity
+    guid: 79788f1c0a0f5a4499ca189f347e9473
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-7.unity
+    guid: a99e8e3134e8cfc4db67636d9b2cb6af
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-8.unity
+    guid: c8db1e51806386e438748b4525c7f02c
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-9.unity
+    guid: 9f35dcc991c9f9d4fb5ad5cd6ef04432
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-10.unity
+    guid: cc898da781169df49aab1ff7ca93c832
+  - enabled: 1
+    path: Assets/Levels/The Tower/To6/To6-End.unity
+    guid: 8c0227efb49b8e54e8d162e5e221bb83
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-1.unity
+    guid: 9e9496a8fda4e6e4c840e0006318e1a8
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-2.unity
+    guid: 8dca05173ce8fd44090508664b4a3038
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-3.unity
+    guid: 91cd4ce4e2f9d044dbbbfa1faf330ec1
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-4.unity
+    guid: 47108755d57998549a2e164b2e1fd7c9
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-5.unity
+    guid: 2772fc79e7f871e48b679886e61e92bf
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-6.unity
+    guid: 69ea0b41396c4d84a9906731a59afafd
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-7.unity
+    guid: 0c521bb61c98dec4583c508647d2e820
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-8.unity
+    guid: 2853afc78623a9a41810bdb13f765b1d
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-9.unity
+    guid: ca23abe3df3a9214e8ec79e3eea09c07
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-10.unity
+    guid: 59ba689d691a5df43b2527b2ef85e7d0
+  - enabled: 1
+    path: Assets/Levels/The Tower/To7/To7-End.unity
+    guid: 8ea5fa120c46bf742a465171d490bd9b
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-1.unity
+    guid: 6df2bdb3c387d0e448b1736a42f3af2e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-2.unity
+    guid: 2e0e6a1975eaf614e8c8b5fb043f7eb1
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-3.unity
+    guid: b332542f92588964e86815584644d97e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-4.unity
+    guid: 707a29acabe1baa428ff781aa7c6d0bc
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-5.unity
+    guid: cbc1bc283aa7aff43bbea7edcb9c4f3a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-6.unity
+    guid: c5580b7cf394d404a94331b9b5f3a63a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-7.unity
+    guid: 400fe914864f07a4e873792935219ccb
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-8.unity
+    guid: 257c121184a498944bb23cfa128ef577
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-9.unity
+    guid: 212343edaff98c14cb281ccfd87789bd
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-10.unity
+    guid: 3523f6630a9dbdc47b124d017da2ebcf
+  - enabled: 1
+    path: Assets/Levels/The Tower/To8/To8-End.unity
+    guid: d7975b4ccb066b54ca85424f094a20c8
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-1.unity
+    guid: 1cfa4a59519a60b4d8efc7a45452a213
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-2.unity
+    guid: 966e63113c8325d41a411a2ecc5e3950
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-3.unity
+    guid: 7db3f6fe98c04a94fbd70ee858bda689
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-4.unity
+    guid: 0bdc0beddedbbb24db88c98b08a7a55d
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-5.unity
+    guid: 1b337956bbe94f549bac791a0319f5aa
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-6.unity
+    guid: 58060fbc66bf75d45a3c466be8687260
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-7.unity
+    guid: 70b179492e421674e9e00a16b1bc5232
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-8.unity
+    guid: 8f858e383bd20b54a933488a911929fd
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-9.unity
+    guid: 7afd7d349288e8a4d96e06e2687b9a69
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-10.unity
+    guid: 12f72d55f62d51643a8309bc11c1b5e3
+  - enabled: 1
+    path: Assets/Levels/The Tower/To9/To9-End.unity
+    guid: 4f56aa6b2b3e7e94f8384eccac636e90
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-1.unity
+    guid: efa9e9a64539380438faa2843dc00e6e
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-2.unity
+    guid: a4a24d3c56012f84281ece5f790c8a19
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-3.unity
+    guid: 9e56ac2e375a84d4da8f30c6e7963d68
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-4.unity
+    guid: e30772b8ba0ebf74395c05aba419f226
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-5.unity
+    guid: 48fe1a55d0eca2949bf4c9e2e9df4da8
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-6.unity
+    guid: 808ee738d5f1e4b43b78bc50c4a416cd
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-7.unity
+    guid: 17a763f3774b24c4b8e4afa0b61a9ccf
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-8.unity
+    guid: 24daecedc235b5c498dee48d135a302a
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-9.unity
+    guid: 7d707b31bf9ee3547b3ccdc20985db31
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-10.unity
+    guid: c1be0ccb0a43b9c48bb2b4f72452ce64
+  - enabled: 1
+    path: Assets/Levels/M e n u/CreditsPage.unity
+    guid: b4a53e4b9ccda2b4aba486d5bf50e427
+  - enabled: 1
+    path: Assets/Levels/The Tower/To10/To10-End.unity
+    guid: 114d9a506e928c64195852e84880dac8
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-1.unity
+    guid: 1d466d644237a704aa070dd5dab04313
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-2.unity
+    guid: 28a8475b659130d43a6966ea11a1e03c
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-3.unity
+    guid: 20e161c3256e01c4aade993a2c527e23
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-4.unity
+    guid: e7296015106af4f42b34c2bc0367dc8b
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-5.unity
+    guid: 2051e3f4be25aac488838121c8034259
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-6.unity
+    guid: cef8188038cfb004c8249eb0cb9f4b58
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-7.unity
+    guid: 91965164fc946d34b94fcaf0e22c5c3b
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-8.unity
+    guid: edd52f4881904864796145691b50cbcb
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-9.unity
+    guid: 4cbe585b81794c24aba95d725109558e
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-10.unity
+    guid: 109e2c72c18cdd441b87223bdd99321c
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To1/C-To1-End.unity
+    guid: 5a6c75b549dda654a9bd7090e2dfcbca
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-1.unity
+    guid: 5a3bf38343d0f97489d2274378a9630c
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-2.unity
+    guid: 7af628e5d91e4bf41aacc8f57b26e152
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-3.unity
+    guid: a5b04bbab11fc4a498266fc43712e3a6
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-4.unity
+    guid: 2d042d968bd1bc44d954fe1bb76d4c02
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-5.unity
+    guid: 2629b1d89c7223a4dbfcbd1f900d0f2d
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-6.unity
+    guid: a61586e8a01236e4d855251d1f76fd37
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-7.unity
+    guid: 2d7eba455f43f0b4fb2a0395b3c7b489
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-8.unity
+    guid: 58ab029c7891667419dfcdefd39a9b74
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-9.unity
+    guid: 67f795af405b37444888d0b23728de3f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-10.unity
+    guid: c83fd354cac58bd48afa6a15308462c4
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To2/C-To2-End.unity
+    guid: 686c4d20c28a1c84f9bf56c183be4195
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-1.unity
+    guid: 81ea01ac451042d4582764b43dfc5709
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-2.unity
+    guid: 17bec9e6b208d554680c8ea2a8b3d676
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-3.unity
+    guid: 6ed75404df62eef43827c8a2abdf2614
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-4.unity
+    guid: fb6915ab68f93f747b1512ec3cc45262
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-5.unity
+    guid: ad7b7374107684b42add60a6aab13f12
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-6.unity
+    guid: 6a79f1ff0e3125e4c85eacf81e87d918
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-7.unity
+    guid: 97c620b520ab36c4c9581ac3075e3e4a
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-8.unity
+    guid: c360fc9dcbc147146b32791bf3247806
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-9.unity
+    guid: 8b1916ce8e05a874694acbd03341bf72
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-10.unity
+    guid: 11dc4859f95893e4fbeb8fcbecf0c03d
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To3/C-To3-End.unity
+    guid: c467c061175537b45bf6b4096414d3eb
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-1.unity
+    guid: 2b2591dabcda0cd4d82f73d6b85343ce
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-2.unity
+    guid: 7d0b1faa31a15a14f978045051662ae2
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-3.unity
+    guid: 6a0cfcdbb7fcb554aa955929c7d14b51
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-4.unity
+    guid: 6a30fdb5ab0b97743aaa7247d049c778
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-5.unity
+    guid: dae7a84087e6f324988c03fbeb4a9f01
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-6.unity
+    guid: bdd9ec29b4b277749a51391c5e0e8489
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-7.unity
+    guid: b0b0a4b795ece084dbf2851c67b77b5a
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-8.unity
+    guid: a73ee06d68012124288b459d784dcd5e
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-9.unity
+    guid: e9e889ef3dfd5f44999baa83ba1546cc
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-10.unity
+    guid: 9bf9735fbe6aacc48b964474cc2ff8a8
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To4/C-To4-End.unity
+    guid: be84c102cc4e8604abdf28bdd2d6dfbf
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-1.unity
+    guid: 62cfa69b577376e40aee111eed265135
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-2.unity
+    guid: 7f297973e3fc3ee488be57c1c9d07bdd
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-3.unity
+    guid: 490a154a74a6c1849962c95b08fbcfe7
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-4.unity
+    guid: ef95d6062e9ec8640a646ef15e186902
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-5.unity
+    guid: be4a931e760e20f43a1b1c329b103d36
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-6.unity
+    guid: 5067ebbcf92234c408eb759de1d4fd5c
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-7.unity
+    guid: c0951633938fc3f4a9e079b3c58d051e
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-8.unity
+    guid: 87612fbe9b2c0d54f91f6de7ab933eb9
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-9.unity
+    guid: 783059daea111ac4a94d8d387e4c7918
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-10.unity
+    guid: 582e19880e07c784a9a48ea805f55042
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To5/C-To5-End.unity
+    guid: 07a355695345b6d40babefd2080be1f2
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-1.unity
+    guid: 208ca9f35c4df3e418e9194df96a7bad
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-2.unity
+    guid: 71571d21b1fbcf74cb5e7c989f3efc76
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-3.unity
+    guid: b1035cf4cd78d3e4fbc457afe78eb692
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-4.unity
+    guid: 114a098306810994f80ec71fb50497f1
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-5.unity
+    guid: d1b025d228931094c83f9a774de95fbc
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-6.unity
+    guid: 1cf1737d74b33e04d9ba071db68d2db2
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-7.unity
+    guid: 6534d97068df18a4b8d755fc6ca8e825
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-8.unity
+    guid: 2f85ca5494cd3a146a7eaf1a8fffd783
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-9.unity
+    guid: 67a3a246f329cd244abbe9cf56976ebb
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-10.unity
+    guid: 30071e58408ff174f9475a9450f9201b
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To6/C-To6-End.unity
+    guid: f3249b71e000d1b4893db49386efdec3
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-1.unity
+    guid: 69381cc6daab04a4f9b93d2beaa7ed96
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-2.unity
+    guid: 96caeb93da8729041b5da052737540a9
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-3.unity
+    guid: 72d22f10967ceae458cd06c7d8ec2587
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-4.unity
+    guid: 3be50dd4679ea09429eac637cc9948a9
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-5.unity
+    guid: 286172bc41e0d8c4193e9366f99c6c78
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-6.unity
+    guid: da506eecf491b6d42a4cb8362a82da94
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-7.unity
+    guid: a47d67aaf4556bf42a4fb174a08bebb0
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-8.unity
+    guid: 209218524cfbd35429955031df59aabb
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-9.unity
+    guid: ad4b54d36b7690348807c80870447a16
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-10.unity
+    guid: 95a8dc77073f3b84389ed1e537f9fdf1
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To7/C-To7-End.unity
+    guid: 29e74683cefc4da4b9fa3cc6486620a4
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-1.unity
+    guid: 19838287df4a1644daa04b983ab38cbe
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-2.unity
+    guid: 93d15aa302c1c8c448794125740845ef
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-3.unity
+    guid: cd4c0f2c03607834493a5dd27c2d9742
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-4.unity
+    guid: 07e05099492d25842816c68e5e7e5603
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-5.unity
+    guid: efa3e31a4660dd34ea524554dc3fc285
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-6.unity
+    guid: b429dddc85e20454d834204db61cd027
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-7.unity
+    guid: 90a00f38f99bd014782f6b5ad4141b20
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-8.unity
+    guid: d0d9534ac067b9f428ff653897ff5b97
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-9.unity
+    guid: f1ddfe47240a8474c883c46e3417d373
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-10.unity
+    guid: 4b78baba7c2601349bf1d121a6b1075e
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To8/C-To8-End.unity
+    guid: 3ebaef92b967e5044b1fcca4a968e018
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-1.unity
+    guid: bcc7f1c680ebc9940bcbdf1b0f3fd7ba
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-2.unity
+    guid: f720f1f85ef44874a980278360d7fc83
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-3.unity
+    guid: bcabc724c5f6d734dbecfe917bf2ce07
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-4.unity
+    guid: 178e5263b57e3074385021b1ac8fcce6
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-5.unity
+    guid: 9abc2ef5bbc4dfb418eff210ca5dfea6
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-6.unity
+    guid: 86a766cd490edc840b91329820551065
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-7.unity
+    guid: 9962ed14dbc527a4185031ab7b50eb4d
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-8.unity
+    guid: 5718240fea0fc614a811b3bb1d5856b5
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-9.unity
+    guid: 18b891b9a0c4639488c36cce46b8c09e
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-10.unity
+    guid: 1bdc1be23b272c74cac3eb2843e5105f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To9/C-To9-End.unity
+    guid: 37306343bd19e704c87e77ed2643e43d
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-1.unity
+    guid: 6e4ea50b007bcb445a45899d97d8907b
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-2.unity
+    guid: 528b4fe629acd0f4cab78cafea5149bd
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-3.unity
+    guid: e5e2222b8bbbfe34abbded87b8bbf3a6
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-4.unity
+    guid: 0c4ad2c6fd9301045b3e1d15dbc7f5f0
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-5.unity
+    guid: 73857c0d4408603488cb4393232f747d
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-6.unity
+    guid: cd37a6d6219f47e45b95f29c72491bf5
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-7.unity
+    guid: 47ef8047d34ceef4886a498a1eb253c8
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-8.unity
+    guid: 28694ce4f6285244e82aaa6d76e706c8
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-9.unity
+    guid: 34f9b38ca617afb40a997ccc9f5177ef
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-10.unity
+    guid: 3b049e1a908ef56499dea67005d9ac75
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Tower/To10/C-To10-End.unity
+    guid: 97991d199152e474b8d45db2ba980214
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L1.unity
+    guid: 749b4e48f54abd74cb7d539be95cc760
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L2.unity
+    guid: 589b5feda8d931241badf56a94b4377f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L3.unity
+    guid: 8bc2bb0ab764f6848815bc41ec6ac9a3
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L4.unity
+    guid: 0322ea048a5bbe7478b34a4babc544ae
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L5.unity
+    guid: 222bbfdad5c7d254fa1e1b5ff944b414
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L6.unity
+    guid: 2dfd883bf02618f4c8d88c5ce4af6572
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L7.unity
+    guid: b26fd4957e53ada49a6c8dd052df5eab
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L8.unity
+    guid: 0e0109a412aab8e4e8792e431a49e07b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L9.unity
+    guid: 59a94d1f44569744c849d5b4807c5269
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W1/Levels/AC-W1L10.unity
+    guid: 07ab51f3dcc837748938f34b9a2a6b83
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L1.unity
+    guid: 2a6e0d1cc4c83b147b1e1e741af7176d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L2.unity
+    guid: d0ad55ee6dd2c164391778d87e9cc10d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L3.unity
+    guid: 5b7f5c7edf1d3f840b2f8200c9f9c485
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L4.unity
+    guid: b56b6cb9913f63940b06792f9473a644
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L5.unity
+    guid: 360688d78f22cc549b9efc5d644aca5f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L6.unity
+    guid: b67fbaf295c9c604988d06c390279a27
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L7.unity
+    guid: 94392837c28551840a9975beba3e696f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L8.unity
+    guid: 093063caf9baef7458d3b66805e9c0fb
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L9.unity
+    guid: d904de82ada9bba46bf772ecbeb1d84c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W2/Levels/AC-W2L10.unity
+    guid: 39c1ee786059f1c4eb1ec4bce0192574
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L1.unity
+    guid: c956c33e891983e4c9354d519ebcb690
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L2.unity
+    guid: 220ed46e2ce5c38439c50bef08387664
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L3.unity
+    guid: 7e670baab7b3719439bcad74d189cdf1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L4.unity
+    guid: 260fbf54d68669e449a7f0f1789bff7f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L5.unity
+    guid: 4df7ece84428b2142af00aa96f4f99d5
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L6.unity
+    guid: e0a3785884b9b294588d0574fe319537
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L7.unity
+    guid: 49617dc02d44d594ab9ad1247f978f9d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L8.unity
+    guid: c13e2adcf04e09d4090cc48fbc22c5e8
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L9.unity
+    guid: 461f7da5689d64a45bc72f3a5554a0f7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/1. Main Game/W3/Levels/AC-W3L10.unity
+    guid: 52ffc254dbeaec14181e962f28307a55
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/2. Epilogue/AC-Epilogue.unity
+    guid: 01fd9b714c6a46c4193e8f41be12a62b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/3.The Trials/AC-T1.unity
+    guid: dadc64df86efc1741be57c932f2ba16e
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/4. The Gauntlets/AC-G1.unity
+    guid: fc914cbdba477fe459d9d84de0625ccf
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/4. The Gauntlets/AC-G2.unity
+    guid: de3bc4acfde69214a89b1a63a7968060
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/4. The Gauntlets/AC-G3.unity
+    guid: f8a5afd92e6956a4fa2f6799a6d47f3d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/4. The Gauntlets/AC-G4.unity
+    guid: 237739b07cf7870479a33bfe210f2fb1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/4. The Gauntlets/AC-G5.unity
+    guid: f719f16f1c2310a4abd63cd17ef9a8c7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-1.unity
+    guid: 8b0cc3b6ce1e99348ac129718481e968
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-2.unity
+    guid: c86aa50cfde148e4eaf1a336715554c1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-3.unity
+    guid: 41710bf1cca720d488229bdb3b7dd8b2
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-4.unity
+    guid: 29cdc268318c6714abe0ce3da11d2510
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-5.unity
+    guid: 5c3caa76e42686543842f88dd126cc64
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-6.unity
+    guid: 2220751ab78848247895bab94cdd2202
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-7.unity
+    guid: 40bc5035eb06b9443923db6cf023fabe
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-8.unity
+    guid: 0723e6cc41a36ce439a4217d5eedb6bf
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-9.unity
+    guid: 344011418169d8c49852a2af073b54d5
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/5. Challenge Zone/AC-CZ-10.unity
+    guid: fd08f69e46a51e041b0539a3129737f7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L1.unity
+    guid: 247b9e7e1a53d8b418f325514faa3aff
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L2.unity
+    guid: 8e3a81ada8cc6cd48b1da724775af0d3
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L3.unity
+    guid: af8ca7306a289044e84481a7b08eab9b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L4.unity
+    guid: f3871b4aedf3dca4283b9b11df500c76
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L5.unity
+    guid: 35c53dd7126a24c448f613cbcc0fefca
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L6.unity
+    guid: 689df725fb3bcf7488b70c115dd822b9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L7.unity
+    guid: 79905e0dd60642541808be1372d91927
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L8.unity
+    guid: c72d4082180b9414d948bafd3a79ca39
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L9.unity
+    guid: 1da3b93726df07e4b8cb7db102fa4e6c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H1/Levels/AC-H1L10.unity
+    guid: 4dbd397536bbf8346b9818b50b65bcf2
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L1.unity
+    guid: 8d68e9fb9728d294e8f65cfc4013b254
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L2.unity
+    guid: b7bf7f2742e5f7a4cb8747fe1b2b81a5
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L3.unity
+    guid: 1837d76bdc6aa12408016ea8c852e28f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L4.unity
+    guid: a1e187f6482f32c47bfbf01fd7186ded
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L5.unity
+    guid: 4010ceb63270c4540951e9899331afe9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L6.unity
+    guid: 3b6acb2f82895f44e8caac45417c2c7b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L7.unity
+    guid: 7e689c7621520214b81dd64837feb10a
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L8.unity
+    guid: 99bbf9a0f3dd0b94583c0199ec5b2181
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L9.unity
+    guid: de158e242893f88459510892604fdf0b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/6. Hardcore/H3/Levels/AC-H3L10.unity
+    guid: d3792a5c060cbdf4e833ecc13a8df89e
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-1.unity
+    guid: 2ed87a8b778037c4bbbf0be03c084dcb
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-2.unity
+    guid: b28b9c9bf7a9e684782ad5d00064f3eb
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-3.unity
+    guid: 8b5efe31d0d97e647955c0fd9a3a0ec2
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-4.unity
+    guid: 0c977b5f05dba4348ad70cdd6121d75d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-5.unity
+    guid: c67bdda9df69fa94aa09eb0a8c941313
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-6.unity
+    guid: 41587fe70d0fee74b9ab5797980097f4
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-7.unity
+    guid: 1dedc9716148d7f46b11efe94a0c5b36
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-8.unity
+    guid: 65f406bb5b8cd0a499a51551be4a0d9b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-9.unity
+    guid: b361e0aa92982f9408757a8ef9de0e31
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To1/AC-To1-10.unity
+    guid: 1ba1054fed7f6cd4cb9e3b9895cfc4cf
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-1.unity
+    guid: 2e745444e736867408278055d0845ffb
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-2.unity
+    guid: a90855ad218c7034db12f90388eb1a3d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-3.unity
+    guid: 21cdb38a70f79854fb5ff1d2b9a92a05
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-4.unity
+    guid: 80e4d7f83ab7bd34ab9033986c12b0e1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-5.unity
+    guid: c0c2f217c34b82047b94f701ee53a615
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-6.unity
+    guid: e728a7ce9d048054a8b1988601022a1b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-7.unity
+    guid: b9e31c138914f5341881986fed77c203
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-8.unity
+    guid: 990e0ccbce6bc2f489365a9f087a18f8
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-9.unity
+    guid: 5bb2b6d17753a614282a017c58db0b57
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To2/AC-To2-10.unity
+    guid: 15c76d8adab0a2c4990fba54cb9e9b41
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-1.unity
+    guid: 7c01a0f8b6018f24eb272aad5307146f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-2.unity
+    guid: 1fd0930b6589e7744b0c008d0584fb92
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-3.unity
+    guid: a7568db0b6f1c014080148707ea44f68
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-4.unity
+    guid: cbb4ea8795f04b840a8eebe1edf93b51
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-5.unity
+    guid: cb123298134603140858c910b1e78a4b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-6.unity
+    guid: d9f0a60340cb809458dae76eeee56543
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-7.unity
+    guid: 942f9ee8510d3864882bd3fe651054f9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-8.unity
+    guid: 1fca1abac6b3fa341a504b8deb25aa5e
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-9.unity
+    guid: b99a036011fd0f049b372b0edc5702bf
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To3/AC-To3-10.unity
+    guid: 1dc73443f5bf5804eb1ebbd77a230a90
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-1.unity
+    guid: dd3482dc6ecf37d488254a0950b11281
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-2.unity
+    guid: eeb4a9d908cef36409de2972d17f5cc9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-3.unity
+    guid: 1ce2e3cc533ca724a9ee32e9e3f1b4f7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-4.unity
+    guid: b16284f8f4cb1474c89c51ecb1138da4
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-5.unity
+    guid: 57fc99c2f95c89843bcfe87b1c602fe6
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-6.unity
+    guid: cca5f1a6562dfb14b9e258dfef20d461
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-7.unity
+    guid: 20543a4579937f94aaa78dcfca2ef218
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-8.unity
+    guid: b721a3f9aaa510a44876aee01022df7f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-9.unity
+    guid: 382cb3a6be62cc246a7e3e6a0ffbb466
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To4/AC-To4-10.unity
+    guid: 7db4f3d9a319e0d4eac42cfd71f3033b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-1.unity
+    guid: 1b8c355ca5e97924c8d6ccc2e3bbfbd6
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-2.unity
+    guid: 1e557f3603ceb284085eaa08d3db843c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-3.unity
+    guid: 54effdf17fcc8db439cc7902233ba5f4
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-4.unity
+    guid: 075ba468dd6f7db46ba459a5be9f0b96
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-5.unity
+    guid: 62b97fff2cc39784bb7f0db6ba34d8ca
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-6.unity
+    guid: 3a346dbeb28a8734781d72abfe2dd4a1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-7.unity
+    guid: 9948481fe1ab49c46a8c5fd5469da510
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-8.unity
+    guid: bdcd2b60ddb43264e947dc039133e8c9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-9.unity
+    guid: 9707226f379ada44a9afc153fa2c7d47
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To5/AC-To5-10.unity
+    guid: 6738ff61b410937429d14ec48a663e50
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-1.unity
+    guid: a7fbc3889834e9a40a2308df9f6e07e1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-2.unity
+    guid: 5b2d5c39bf6dba4429999c360472f817
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-3.unity
+    guid: 3f048dbfbd1ef8f4a97b03f44854ec1c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-4.unity
+    guid: d86b31fcff508c2448de3835a4b6dfbd
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-5.unity
+    guid: ea70a8ec507b4f34eb4c23afacc9244f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-6.unity
+    guid: ffe897b69ed753f41b768d7f49231f86
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-7.unity
+    guid: 05c9859e4b7317a47bdd2252e79c0c67
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-8.unity
+    guid: 2b2c2fd1f8b132045b8dca6f2b5a303d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-9.unity
+    guid: c98cacc84733c5a46ad2d2fb0dd4448d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To6/AC-To6-10.unity
+    guid: 2a6c2139d58935a4dbd6b64ecaeabdbe
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-1.unity
+    guid: 08a1627a2c8e4b441aeaa4d506fc0c5a
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-2.unity
+    guid: 08a7fad63658c704cbed23d01baa9dbd
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-3.unity
+    guid: 3345baf6ecb923748b557c786d3b2da5
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-4.unity
+    guid: 6e86bf46e141604468d6162279e62d8c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-5.unity
+    guid: 2ded1a976089c6445980921fc40eb7c1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-6.unity
+    guid: e2398960af92e6c4cae8959b53da8114
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-7.unity
+    guid: f6e31eee4ca440147a8604effb8d6681
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-8.unity
+    guid: 7d729f779b43f7a48a438ddf296913a1
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-9.unity
+    guid: 3bcfcafb62f87d64e95c5e06ec3f712c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To7/AC-To7-10.unity
+    guid: e83da97cacdcccc4ebf8b6bdc58b4c3a
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-1.unity
+    guid: cd880586880bb3545964e5f58259b74d
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-2.unity
+    guid: 339d0b23497574148928a5b047b247df
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-3.unity
+    guid: e303121f885189944b8121450e12fdb3
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-4.unity
+    guid: 8034c0c5e4da11f42b5e6d1cae8438f4
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-5.unity
+    guid: ac8a3f9de76a8a44995ae8a1bea6f958
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-6.unity
+    guid: 776d1cd00bb105b4f9cd518b24fe09a9
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-7.unity
+    guid: bbcd8848edd06ce41a20a2abd176960a
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-8.unity
+    guid: daaebcdbd0d2c354d9c0a7aefa4423db
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-9.unity
+    guid: 23bf048a05eeaf84aa77a5c5f3e937c7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To8/AC-To8-10.unity
+    guid: f187de69c9822294d995120537dc9c97
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-1.unity
+    guid: 869ba81bde3179f41bd9ffe44bad9a3c
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-2.unity
+    guid: b274ee9f0edd80846adf02d705ebb9d3
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-3.unity
+    guid: b76873d00306bf842b482439fe864e25
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-4.unity
+    guid: 09918e29cb26e0f47b3c388f084e25e0
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-5.unity
+    guid: 37411b41379e3a04482fc7c2792a34a3
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-6.unity
+    guid: 4a9bae38e8b75a247b4cc3d214b0d2b7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-7.unity
+    guid: 1db607925bbfd1445a912dc0c6be35d6
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-8.unity
+    guid: 9165eeea3fcbbc64194c75d458cd6a7b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-9.unity
+    guid: c2fb412999cd7a24988a8c63080328fd
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To9/AC-To9-10.unity
+    guid: 0912a5e346bfdd7499a903e01cadd2a4
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-1.unity
+    guid: f6252b48fea48544aa6e09a2c5d575e2
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-2.unity
+    guid: 8065226d2a4436f4980dcbd3f030eaec
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-3.unity
+    guid: c0908b130865d0a49ba93c7af1d72099
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-4.unity
+    guid: 5bbbc9b5209165b469fd4f45f7ee1f98
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-5.unity
+    guid: dd87696bf5c90594b9fa03a551dbde7b
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-6.unity
+    guid: 05e2b2cf9de2bb543bc17e81e2b79951
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-7.unity
+    guid: 03917e68ef7f8244b91265d42268fe41
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-8.unity
+    guid: d955eb752796554468f3820ec468158f
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-9.unity
+    guid: 07dc603ab3a53dc488a0c9fb9f5660e8
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/AC-To10-10.unity
+    guid: 7e59810362e2a6f4c87378f54f484fc7
+  - enabled: 1
+    path: Assets/Levels/Completionist/All-In-One Completionist/7. The Tower/To10/C-AllInOne-End.unity
+    guid: c7bb93a53f7168d4baf69031b3d70324
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/R-P1.unity
+    guid: 597020fca69d14e4e956a7d566ae5e68
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/R-P2.unity
+    guid: 711b73cdc0c81684ebdfa12d8a13ef45
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/R-P3.unity
+    guid: 68953a69235ae1f43b4d52b60e44d7f2
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/R-P4.unity
+    guid: 4d579a4ab52a6f44c8dc0af272ddb708
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/R-P5.unity
+    guid: a908745672908e14fb329831d4dc5eab
+  - enabled: 1
+    path: Assets/Levels/The Rooms/1. Pain/EndOfPainRooms.unity
+    guid: 76dc6dd6b32449e498582f37c06711a8
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/R-T1.unity
+    guid: 76fd33c90df7741419a66b5028a23a0c
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/R-T2.unity
+    guid: a449209634336424682f2114bfa93b8b
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/R-T3.unity
+    guid: 98951027b95516647a2612c107cfa9d9
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/R-T4.unity
+    guid: 5e88ed83f37094b46a918e7e87d3436f
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/R-T5.unity
+    guid: 6a955280ccef6f14a89bc55ccb436981
+  - enabled: 1
+    path: Assets/Levels/The Rooms/2. Torture/EndOfTortureRooms.unity
+    guid: 4fbb254d5b3a9d64b9834db255de2463
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/R-D1.unity
+    guid: 12b85c156601a504483f869fd1f7246f
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/R-D2.unity
+    guid: c867717111956824b93e4688beab1f0f
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/R-D3.unity
+    guid: 14b767f7fbd47c94c88be33c66dfb97a
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/R-D4.unity
+    guid: e67d6b930a6613c4d9f899c3c3c1b276
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/R-D5.unity
+    guid: 1754cd3d93e150046a88df1c0cf49628
+  - enabled: 1
+    path: Assets/Levels/The Rooms/3. Death/EndOfRooms.unity
+    guid: 078d9f833106d3c44882017162d9b65f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/1. Pain/C-R-P1.unity
+    guid: d7bf9e6dba7817041bb70c8ead63f4b2
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/1. Pain/C-R-P2.unity
+    guid: a4e9bd35336e7f84f90e6d0a706e7758
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/1. Pain/C-R-P3.unity
+    guid: e2220fb4d4f785445890e961ee8e361f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/1. Pain/C-R-P4.unity
+    guid: b7c1676e3d2ce1a4881cea2017d5092f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/1. Pain/C-R-P5.unity
+    guid: 7bce6ae85eb12dd45a58c7bd969e81b5
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/2. Torture/C-R-T1.unity
+    guid: f5a162c094aa3174dbbff8ff06240de2
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/2. Torture/C-R-T2.unity
+    guid: afb027f8b52d22540a408c9f98c66587
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/2. Torture/C-R-T3.unity
+    guid: a7cbb6d991195884fa9778577d9621b8
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/2. Torture/C-R-T4.unity
+    guid: 8456464f741b98e41a7b140c5d7d708a
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/2. Torture/C-R-T5.unity
+    guid: 82a0af3eec9a89e42bcd1f344808463a
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/C-R-D1.unity
+    guid: bc043127040b5c047aa6806dd627901f
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/C-R-D2.unity
+    guid: 0a94c02557715a34fa5262ec0126b834
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/C-R-D3.unity
+    guid: c380d05d28c7ef047bf77913b65ec77a
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/C-R-D4.unity
+    guid: d871da9857176c64999bbdac7c8fc8ed
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/C-R-D5.unity
+    guid: 52fef6a7581650c40873071d0738f787
+  - enabled: 1
+    path: Assets/Levels/Completionist/The Rooms/3. Death/EndOfCRooms.unity
+    guid: 38b7bc48460b27542905b54f88a351b8
+  - enabled: 1
+    path: Assets/Levels/M e n u/StartOver.unity
+    guid: b40cc4be693a91741acd23b032b614a9
+  - enabled: 1
+    path: Assets/Levels/M e n u/SettingsAdjuster.unity
+    guid: 2a1337fbf97ae594c83707a2c4ee0240
+  - enabled: 1
+    path: Assets/Levels/M e n u/SoundtrackPlayer.unity
+    guid: e0b44113387adae42824a89bd4603b92
+  - enabled: 1
+    path: Assets/Levels/M e n u/ControlsRemapper.unity
+    guid: cd65b3ec4c2049344b1fca3a58294c5f
+  - enabled: 1
+    path: Assets/Levels/M e n u/StartupCustomLevelPlayer.unity
+    guid: e8732ea7e25c9454a886af7cb45ad693
+  - enabled: 1
+    path: Assets/Levels/Level Editor/LevelPlayer.unity
+    guid: c8b89ba12e2f5d64895a700f3f04e3f5
+  - enabled: 1
+    path: Assets/Levels/M e n u/ModPackEndScene.unity
+    guid: 6de492ae4e89a5846aecfe146c9e0230
+  - enabled: 1
+    path: Assets/Levels/The Trials/T2.unity
+    guid: e868e2a73cd7fc34cb5e9259113984ef
+  - enabled: 1
+    path: Assets/Levels/The Trials/T3.unity
+    guid: 67665302367439f4e8c262463ce40568
+  - enabled: 1
+    path: Assets/Levels/The Trials/T4.unity
+    guid: 8d6b6275f1f50054fb48af3673750d38
+  - enabled: 1
+    path: Assets/Levels/The Trials/T5.unity
+    guid: 17996794b9def184392882cfeb0800da
+  - enabled: 1
+    path: Assets/Levels/The Trials/T6.unity
+    guid: b4015e29063f304468b119b35f7bd787
+  - enabled: 1
+    path: Assets/Levels/The Trials/T7.unity
+    guid: 87d59c7c38c814b4fb132c6b8c6db365
+  - enabled: 1
+    path: Assets/Levels/The Trials/T8.unity
+    guid: a17f6545caba5ff4bbfada3eae8a978a
+  - enabled: 1
+    path: Assets/Levels/The Trials/T9.unity
+    guid: 18dca36e2f796cd49b7e16648318bd2c
+  - enabled: 1
+    path: Assets/Levels/The Trials/T10.unity
+    guid: ce815fc6a37b1f24cadc846f57293fa7
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
