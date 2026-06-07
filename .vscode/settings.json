@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FewTileEffort - Copy (2).slnx"
+    "dotnet.defaultSolution": "FewTileEffort-Final.slnx"
 }

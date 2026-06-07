@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 897462cc43957415b9023b5f51408fd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6279066865213926859
+    second: Fewty_eyes_0
+  - first:
+      213: -3636460566427742272
+    second: Fewty_eyes_1
+  - first:
+      213: 7464046748541139773
+    second: Fewty_eyes_2
+  - first:
+      213: 6899912292049735837
+    second: Fewty_eyes_3
+  - first:
+      213: -2413590146010015381
+    second: Fewty_eyes_4
+  - first:
+      213: -4386128536503952065
+    second: Fewty_eyes_5
+  - first:
+      213: 277068821058105305
+    second: Fewty_eyes_6
+  - first:
+      213: 8060776334516668628
+    second: Fewty_eyes_7
+  - first:
+      213: -1918168881137813713
+    second: Fewty_eyes_8
+  - first:
+      213: -5250682302057982870
+    second: Fewty_eyes_9
+  - first:
+      213: -6606769790168922773
+    second: Fewty_eyes_10
+  - first:
+      213: 3422745111640634283
+    second: Fewty_eyes_11
+  - first:
+      213: 7845551262185692962
+    second: Fewty_eyes_12
+  - first:
+      213: 3639965057042572294
+    second: Fewty_eyes_13
+  - first:
+      213: -318431865982107893
+    second: Fewty_eyes_14
+  - first:
+      213: 601751698520581750
+    second: Fewty_eyes_15
+  - first:
+      213: -1514843256176529064
+    second: Fewty_eyes_16
+  - first:
+      213: 6004736333306796988
+    second: Fewty_eyes_17
+  - first:
+      213: 5868184419430089784
+    second: Fewty_eyes_18
+  - first:
+      213: -8571430564688154750
+    second: Fewty_eyes_19
+  - first:
+      213: 9169548690730390473
+    second: Fewty_eyes_20
+  - first:
+      213: -2974426301829163530
+    second: Fewty_eyes_21
+  - first:
+      213: 8738844006340569064
+    second: Fewty_eyes_22
+  - first:
+      213: 6316346638849983667
+    second: Fewty_eyes_23
+  - first:
+      213: -3412819440979703922
+    second: Fewty_eyes_24
+  - first:
+      213: 8150173531683103060
+    second: Fewty_eyes_25
+  - first:
+      213: -5195964144006500921
+    second: Fewty_eyes_26
+  - first:
+      213: -7425246856657990317
+    second: Fewty_eyes_27
+  - first:
+      213: -749577464348950347
+    second: Fewty_eyes_28
+  - first:
+      213: 8963249708797393930
+    second: Fewty_eyes_29
+  - first:
+      213: 8416800418995238075
+    second: Fewty_eyes_30
+  - first:
+      213: -8242156107991612371
+    second: Fewty_eyes_31
+  - first:
+      213: 2554367262980123623
+    second: Fewty_eyes_32
+  - first:
+      213: -605229470908875957
+    second: Fewty_eyes_33
+  - first:
+      213: -2122530350057278059
+    second: Fewty_eyes_34
+  - first:
+      213: 8171750752671163683
+    second: Fewty_eyes_35
+  - first:
+      213: 5784833154654039936
+    second: Fewty_eyes_36
+  - first:
+      213: 1863485508104714172
+    second: Fewty_eyes_37
+  - first:
+      213: -4623830743713896765
+    second: Fewty_eyes_38
+  - first:
+      213: -6391234579646059991
+    second: Fewty_eyes_39
+  - first:
+      213: -5221092842082884288
+    second: Fewty_eyes_40
+  - first:
+      213: -903789407493622042
+    second: Fewty_eyes_41
+  - first:
+      213: -7034524140573119290
+    second: Fewty_eyes_42
+  - first:
+      213: -1114099190527398274
+    second: Fewty_eyes_43
+  - first:
+      213: 8573393634655049415
+    second: Fewty_eyes_44
+  - first:
+      213: -5039979763256498656
+    second: Fewty_eyes_45
+  - first:
+      213: 3471204163575435020
+    second: Fewty_eyes_46
+  - first:
+      213: -7739728555011344626
+    second: Fewty_eyes_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fewty_eyes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6006cb0ab32750800000000000000
+      internalID: 6279066865213926859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfcb52b162b88dc0800000000000000
+      internalID: -3636460566427742272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b34b9b8fe959760800000000000000
+      internalID: 7464046748541139773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d9fc1ca961cf50800000000000000
+      internalID: 6899912292049735837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6990b9cc84318ed0800000000000000
+      internalID: -2413590146010015381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d5a72b5575123c0800000000000000
+      internalID: -4386128536503952065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df2181ff9858d300800000000000000
+      internalID: 277068821058105305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8cdb05e51addf60800000000000000
+      internalID: 8060776334516668628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277294c09b4165e0800000000000000
+      internalID: -1918168881137813713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64576df344d127b0800000000000000
+      internalID: -5250682302057982870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65033841e90054a0800000000000000
+      internalID: -6606769790168922773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba37b086b88008f20800000000000000
+      internalID: 3422745111640634283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f12b13e4ff0ec60800000000000000
+      internalID: 7845551262185692962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046bdb1fe0c38230800000000000000
+      internalID: 3639965057042572294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb8fea7e3b49bf0800000000000000
+      internalID: -318431865982107893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ae494bf9d95800800000000000000
+      internalID: 601751698520581750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b331a5123afae0800000000000000
+      internalID: -1514843256176529064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb12a471eb155350800000000000000
+      internalID: 6004736333306796988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834cc9473aaff6150800000000000000
+      internalID: 5868184419430089784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f26d690592c0980800000000000000
+      internalID: -8571430564688154750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c312ada3f7c04f70800000000000000
+      internalID: 9169548690730390473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5d4e4a907b8b6d0800000000000000
+      internalID: -2974426301829163530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72b79c25c964970800000000000000
+      internalID: 8738844006340569064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fewty_eyes_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c2e67dcb28a750800000000000000
+      internalID: 6316346638849983667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbe7a6e0e1798449284eee8a829c2aba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":320.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fewty_eyes_0: 6279066865213926859
+      Fewty_eyes_1: -3636460566427742272
+      Fewty_eyes_10: -6606769790168922773
+      Fewty_eyes_11: 3422745111640634283
+      Fewty_eyes_12: 7845551262185692962
+      Fewty_eyes_13: 3639965057042572294
+      Fewty_eyes_14: -318431865982107893
+      Fewty_eyes_15: 601751698520581750
+      Fewty_eyes_16: -1514843256176529064
+      Fewty_eyes_17: 6004736333306796988
+      Fewty_eyes_18: 5868184419430089784
+      Fewty_eyes_19: -8571430564688154750
+      Fewty_eyes_2: 7464046748541139773
+      Fewty_eyes_20: 9169548690730390473
+      Fewty_eyes_21: -2974426301829163530
+      Fewty_eyes_22: 8738844006340569064
+      Fewty_eyes_23: 6316346638849983667
+      Fewty_eyes_3: 6899912292049735837
+      Fewty_eyes_4: -2413590146010015381
+      Fewty_eyes_5: -4386128536503952065
+      Fewty_eyes_6: 277068821058105305
+      Fewty_eyes_7: 8060776334516668628
+      Fewty_eyes_8: -1918168881137813713
+      Fewty_eyes_9: -5250682302057982870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
